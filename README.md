@@ -1,9 +1,5 @@
 # Vulgo
 
-Někdy  
-jen jdete dál.
+*Vaše kratší noha*
 
-  
-  
-[vulgo.cz](http://vulgo.cz/)
 
