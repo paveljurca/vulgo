@@ -1,5 +1,4 @@
 # Vulgo
 
-*Vaše kratší noha*
-
+*Irmě*
 
