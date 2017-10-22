@@ -1,4 +1,2 @@
-# Vulgo
-
-*Irmě*
-
+# vulgo
+je prostor
