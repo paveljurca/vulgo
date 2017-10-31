@@ -1,2 +1,0 @@
-# vulgo
-je prostor
